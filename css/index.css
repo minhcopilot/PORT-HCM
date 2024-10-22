@@ -104,7 +104,7 @@ body {
 
 /* container vice chairperson */
 .container-vice-chairperson {
-    top: 5px;
+    top: -10px;
     left: 24px;
     width: 160px;
     height: 150px;
